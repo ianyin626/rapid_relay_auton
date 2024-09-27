@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.6.0",
+		"json": 2
+	},
+	"project": {
+		"name": "rapid_relay_auton",
+		"description": "",
+		"creationDate": "9/26/2024, 8:35:29 PM",
+		"platform": "IQ2",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "IQ2_1_0_0_19",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
